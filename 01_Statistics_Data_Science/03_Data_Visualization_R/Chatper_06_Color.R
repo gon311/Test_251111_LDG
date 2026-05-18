@@ -1,4 +1,4 @@
-setwd("/Users/ceci_3110/visualization")
+setwd("/Users/username/visualization")
 getwd()
 
 # 1. Enter the color name directly as text
